@@ -1,0 +1,32 @@
+{
+  "id": "beasts-of-gilead-1e",
+  "title": "Beasts of Gilead (1e)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Gidders",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "beasts-of-gilead",
+      "label": "Threats",
+      "path": "packs/beasts-of-gilead",
+      "type": "Actor",
+      "system": "wrath-and-glory",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": ""
+}
